@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 426" width="1000" height="426" role="img" aria-label="Terminal: whoami — software engineer focused on agentic AI, scalable backends and medical-imaging ML">
+<title>whoami</title>
+<defs>
+  <linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#1e1b4b"/></linearGradient>
+  <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="0.5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="998" height="424" rx="16" fill="#0b1020" stroke="url(#frame)" stroke-width="1.5"/>
+<path d="M1 17 a16 16 0 0 1 16 -16 H983 a16 16 0 0 1 16 16 V40 H1Z" fill="url(#bar)"/>
+<circle cx="26" cy="21" r="6" fill="#ff5f57"/><circle cx="46" cy="21" r="6" fill="#febc2e"/><circle cx="66" cy="21" r="6" fill="#28c840"/>
+<text x="500.0" y="26" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#94a3b8">om@github: ~/omgond — zsh</text>
+
+  <g>
+    <text x="28" y="76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#a3e635" opacity="0">➜ <tspan fill="#22d3ee">~/omgond</tspan>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.0333;0.9556;1" dur="18.0s" repeatCount="indefinite" calcMode="discrete"/></text>
+    <clipPath id="tc0"><rect x="146" y="58" height="26" width="0"><animate attributeName="width" values="0;0;64;64;0" keyTimes="0;0.0333;0.0611;0.9556;1" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+    <text x="148" y="76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#f8fafc" clip-path="url(#tc0)">whoami</text>
+  </g>
+  <text x="28" y="106" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#cbd5e1" opacity="0">om_gond  ·  software engineer  ·  B.E. IT  ·  Maharashtra, IN
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.0806;0.0956;0.9556;1" dur="18.0s" repeatCount="indefinite"/></text>
+  <g>
+    <text x="28" y="136" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#a3e635" opacity="0">➜ <tspan fill="#22d3ee">~/omgond</tspan>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.0961;0.9556;1" dur="18.0s" repeatCount="indefinite" calcMode="discrete"/></text>
+    <clipPath id="tc2"><rect x="146" y="118" height="26" width="0"><animate attributeName="width" values="0;0;150;150;0" keyTimes="0;0.0961;0.1461;0.9556;1" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+    <text x="148" y="136" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#f8fafc" clip-path="url(#tc2)">cat ./focus.txt</text>
+  </g>
+  <text x="28" y="166" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#cbd5e1" opacity="0"><tspan fill="#a78bfa">▸ </tspan>agentic AI — planning, tool use, human-in-the-loop, MCP
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1656;0.1806;0.9556;1" dur="18.0s" repeatCount="indefinite"/></text>
+  <text x="28" y="196" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#cbd5e1" opacity="0"><tspan fill="#a78bfa">▸ </tspan>scalable backends — Next.js · Django · FastAPI · ASP.NET Core
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1811;0.1961;0.9556;1" dur="18.0s" repeatCount="indefinite"/></text>
+  <text x="28" y="226" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#cbd5e1" opacity="0"><tspan fill="#a78bfa">▸ </tspan>medical-imaging ML — leakage-free chest X-ray AI + explainability
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1967;0.2117;0.9556;1" dur="18.0s" repeatCount="indefinite"/></text>
+  <g>
+    <text x="28" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#a3e635" opacity="0">➜ <tspan fill="#22d3ee">~/omgond</tspan>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2122;0.9556;1" dur="18.0s" repeatCount="indefinite" calcMode="discrete"/></text>
+    <clipPath id="tc6"><rect x="146" y="238" height="26" width="0"><animate attributeName="width" values="0;0;169;169;0" keyTimes="0;0.2122;0.2689;0.9556;1" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+    <text x="148" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#f8fafc" clip-path="url(#tc6)">ls ./achievements</text>
+  </g>
+  <text x="28" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13.5" fill="#fbbf24" opacity="0">uplifters_award.md   winner_of_the_week_x2.md   aws_cloud_foundations.md   aws_cloud_architecting.md
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.2883;0.3033;0.9556;1" dur="18.0s" repeatCount="indefinite"/></text>
+  <g>
+    <text x="28" y="316" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#a3e635" opacity="0">➜ <tspan fill="#22d3ee">~/omgond</tspan>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.3039;0.9556;1" dur="18.0s" repeatCount="indefinite" calcMode="discrete"/></text>
+    <clipPath id="tc8"><rect x="146" y="298" height="26" width="0"><animate attributeName="width" values="0;0;112;112;0" keyTimes="0;0.3039;0.3406;0.9556;1" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+    <text x="148" y="316" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#f8fafc" clip-path="url(#tc8)">echo $MOTTO</text>
+  </g>
+  <text x="28" y="346" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#f472b6" font-style="italic" opacity="0">"Build things that scale. Learn things that last."
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.3600;0.3750;0.9556;1" dur="18.0s" repeatCount="indefinite"/></text>
+  <g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.3756;0.9556;1" dur="18.0s" repeatCount="indefinite" calcMode="discrete"/>
+    <text x="28" y="376" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#a3e635">➜ <tspan fill="#22d3ee">~/omgond</tspan></text>
+    <rect x="148" y="361" width="10" height="19" fill="#f8fafc"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" calcMode="discrete"/></rect>
+  </g>
+</svg>
